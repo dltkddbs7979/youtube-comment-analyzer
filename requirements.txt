@@ -1,0 +1,7 @@
+streamlit>=1.33
+requests>=2.31
+python-dotenv>=1.0
+pandas>=2.1
+matplotlib>=3.8
+pillow>=10.0
+kiwipiepy>=0.17

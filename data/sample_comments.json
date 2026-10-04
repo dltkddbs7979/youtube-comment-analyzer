@@ -1,0 +1,412 @@
+{
+  "notice": "이 파일은 화면과 기능 확인을 위한 모의 데이터입니다. 실제 유튜브 댓글이 아닙니다.",
+  "video_id": "15Gbo7Xcy80",
+  "video_title": "이성을 강하게 끌어당기는 연애운 주파수 STUDY WITH ME ver.",
+  "comments": [
+    {
+      "comment_id": "c01",
+      "parent_id": null,
+      "text": "사흘 동안 자기 전에 들었는데, 읽씹만 하던 사람에게서 먼저 연락이 왔어요. 들은 지 나흘 만입니다.",
+      "published_at": "2026-01-06T21:10:00+09:00",
+      "like_count": 12,
+      "is_reply": false,
+      "_expected": "effect"
+    },
+    {
+      "comment_id": "c02",
+      "parent_id": null,
+      "text": "헤어진 지 반년 됐습니다. 주파수를 듣고 나서 재회했어요. 상대가 카톡을 먼저 하더라고요.",
+      "published_at": "2026-01-08T23:02:00+09:00",
+      "like_count": 4,
+      "is_reply": false,
+      "_expected": "effect"
+    },
+    {
+      "comment_id": "c03",
+      "parent_id": null,
+      "text": "짝사랑하던 사람에게 고백받았어요. 지난주에 먼저 주말에 보자고 했습니다.",
+      "published_at": "2026-01-12T20:40:00+09:00",
+      "like_count": 8,
+      "is_reply": false,
+      "_expected": "effect"
+    },
+    {
+      "comment_id": "c04",
+      "parent_id": null,
+      "text": "듣고 나서 썸을 타기 시작했어요. 대화 횟수가 눈에 띄게 늘었습니다.",
+      "published_at": "2026-01-15T22:18:00+09:00",
+      "like_count": 2,
+      "is_reply": false,
+      "_expected": "effect"
+    },
+    {
+      "comment_id": "c05",
+      "parent_id": null,
+      "text": "연락 왔으면 좋겠다. 제발 이번 주에는 와주었으면 해요.",
+      "published_at": "2026-01-10T19:00:00+09:00",
+      "like_count": 20,
+      "is_reply": false,
+      "_expected": "hope"
+    },
+    {
+      "comment_id": "c06",
+      "parent_id": null,
+      "text": "그 사람이 다시 연락하기를 간절히 바라요. 오늘도 듣고 자야지.",
+      "published_at": "2026-01-18T23:40:00+09:00",
+      "like_count": 3,
+      "is_reply": false,
+      "_expected": "hope"
+    },
+    {
+      "comment_id": "c07",
+      "parent_id": null,
+      "text": "재회가 이루어지길 기도합니다. 마음이 계속 조급해요.",
+      "published_at": "2026-01-20T21:05:00+09:00",
+      "like_count": 6,
+      "is_reply": false,
+      "_expected": "hope"
+    },
+    {
+      "comment_id": "c08",
+      "parent_id": null,
+      "text": "썸남이 먼저 데이트 신청하기를 희망해요.",
+      "published_at": "2026-01-22T18:12:00+09:00",
+      "like_count": 1,
+      "is_reply": false,
+      "_expected": "hope"
+    },
+    {
+      "comment_id": "c09",
+      "parent_id": null,
+      "text": "연애가 됐으면 좋겠어서 매일 틀어 놓고 있어요. 일단 믿어보려고요.",
+      "published_at": "2026-01-25T22:55:00+09:00",
+      "like_count": 5,
+      "is_reply": false,
+      "_expected": "hope"
+    },
+    {
+      "comment_id": "c10",
+      "parent_id": null,
+      "text": "좋아하는 사람에게 내가 떠오르길 바랍니다.",
+      "published_at": "2026-01-28T20:20:00+09:00",
+      "like_count": 2,
+      "is_reply": false,
+      "_expected": "hope"
+    },
+    {
+      "comment_id": "c11",
+      "parent_id": null,
+      "text": "이어폰으로 들어야 하나요? 스피커로 틀어 놓아도 될까요?",
+      "published_at": "2026-02-02T12:08:00+09:00",
+      "like_count": 9,
+      "is_reply": false,
+      "_expected": "usage"
+    },
+    {
+      "comment_id": "c12",
+      "parent_id": null,
+      "text": "자기 전에 몇 번 반복하면 좋을지 궁금합니다. 하룻밤에 한 번이면 되나요?",
+      "published_at": "2026-02-04T23:16:00+09:00",
+      "like_count": 4,
+      "is_reply": false,
+      "_expected": "usage"
+    },
+    {
+      "comment_id": "c13",
+      "parent_id": null,
+      "text": "볼륨은 어느 정도가 적당한가요? 너무 크면 안 될 것 같아서요.",
+      "published_at": "2026-02-06T21:44:00+09:00",
+      "like_count": 1,
+      "is_reply": false,
+      "_expected": "usage"
+    },
+    {
+      "comment_id": "c14",
+      "parent_id": null,
+      "text": "출근길에 들어도 되나요, 아니면 잘 때만 들어야 하나요?",
+      "published_at": "2026-02-08T08:05:00+09:00",
+      "like_count": 3,
+      "is_reply": false,
+      "_expected": "usage"
+    },
+    {
+      "comment_id": "c15",
+      "parent_id": null,
+      "text": "저도 같은 마음이에요. 좋은 영상 감사합니다.",
+      "published_at": "2026-02-10T19:30:00+09:00",
+      "like_count": 7,
+      "is_reply": false,
+      "_expected": "empathy"
+    },
+    {
+      "comment_id": "c16",
+      "parent_id": "c01",
+      "text": "저도 공감해요. 좋은 소식이라 응원합니다.",
+      "published_at": "2026-01-07T09:12:00+09:00",
+      "like_count": 2,
+      "is_reply": true,
+      "_expected": "empathy"
+    },
+    {
+      "comment_id": "c17",
+      "parent_id": null,
+      "text": "공감해요. 이별 후에 이런 영상이 위로가 되네요. 고맙습니다.",
+      "published_at": "2026-02-12T22:02:00+09:00",
+      "like_count": 11,
+      "is_reply": false,
+      "_expected": "empathy"
+    },
+    {
+      "comment_id": "c18",
+      "parent_id": null,
+      "text": "친구한테 추천했어요. 저장해 두고 들으니 힘이 됩니다. 화이팅!",
+      "published_at": "2026-02-14T15:47:00+09:00",
+      "like_count": 4,
+      "is_reply": false,
+      "_expected": "empathy"
+    },
+    {
+      "comment_id": "c19",
+      "parent_id": null,
+      "text": "과학적 근거가 없는 주장 아닌가요. 플라시보로 설명되는 수준으로 보입니다.",
+      "published_at": "2026-02-16T11:20:00+09:00",
+      "like_count": 15,
+      "is_reply": false,
+      "_expected": "criticism"
+    },
+    {
+      "comment_id": "c20",
+      "parent_id": null,
+      "text": "효과 없다는 댓글은 왜 안 보이나요. 광고성 콘텐츠라고 의심됩니다.",
+      "published_at": "2026-02-18T13:33:00+09:00",
+      "like_count": 6,
+      "is_reply": false,
+      "_expected": "criticism"
+    },
+    {
+      "comment_id": "c21",
+      "parent_id": null,
+      "text": "주파수 듣고 연애가 된다는 건 미신입니다. 근거를 제시해 보세요.",
+      "published_at": "2026-02-20T17:55:00+09:00",
+      "like_count": 3,
+      "is_reply": false,
+      "_expected": "criticism"
+    },
+    {
+      "comment_id": "c22",
+      "parent_id": null,
+      "text": "연애운 주파수 듣고 고백받음 ㅋㅋㅋㅋ 무당이냐 진짜",
+      "published_at": "2026-02-22T01:02:00+09:00",
+      "like_count": 40,
+      "is_reply": false,
+      "_expected": "humor"
+    },
+    {
+      "comment_id": "c23",
+      "parent_id": null,
+      "text": "이거 듣고 자다가 이성이 아니라 모기만 끌어당겼다 ㅎㅎㅎ 실화냐",
+      "published_at": "2026-02-24T02:18:00+09:00",
+      "like_count": 13,
+      "is_reply": false,
+      "_expected": "humor"
+    },
+    {
+      "comment_id": "c24",
+      "parent_id": null,
+      "text": "스터디 위드 미 해놓고 연애운이라니 레전드 ㅋㅋㅋ",
+      "published_at": "2026-02-26T03:40:00+09:00",
+      "like_count": 9,
+      "is_reply": false,
+      "_expected": "humor"
+    },
+    {
+      "comment_id": "c25",
+      "parent_id": null,
+      "text": "ㅋㅋㅋㅋ",
+      "published_at": "2026-03-01T10:00:00+09:00",
+      "like_count": 500,
+      "is_reply": false,
+      "_expected": "hold"
+    },
+    {
+      "comment_id": "c26",
+      "parent_id": null,
+      "text": "❤️❤️❤️",
+      "published_at": "2026-03-02T10:05:00+09:00",
+      "like_count": 8,
+      "is_reply": false,
+      "_expected": "hold"
+    },
+    {
+      "comment_id": "c27",
+      "parent_id": null,
+      "text": "대박",
+      "published_at": "2026-03-03T10:10:00+09:00",
+      "like_count": 3,
+      "is_reply": false,
+      "_expected": "hold"
+    },
+    {
+      "comment_id": "c28",
+      "parent_id": null,
+      "text": "좋아요",
+      "published_at": "2026-03-04T10:12:00+09:00",
+      "like_count": 21,
+      "is_reply": false,
+      "_expected": "hold"
+    },
+    {
+      "comment_id": "c29",
+      "parent_id": null,
+      "text": "효과 있었으면 좋겠는데 솔직히 반신반의예요.",
+      "published_at": "2026-03-05T21:21:00+09:00",
+      "like_count": 5,
+      "is_reply": false,
+      "_expected": "hope"
+    },
+    {
+      "comment_id": "c30",
+      "parent_id": null,
+      "text": "전남친이랑 헤어진 지 두 달인데 다시 연락 왔으면 좋겠어요.",
+      "published_at": "2026-03-06T22:48:00+09:00",
+      "like_count": 2,
+      "is_reply": false,
+      "_expected": "hope"
+    },
+    {
+      "comment_id": "c31",
+      "parent_id": null,
+      "text": "짝사랑 3년째인데 지난주에 그 사람이 먼저 연락 왔어요.",
+      "published_at": "2026-03-08T19:16:00+09:00",
+      "like_count": 6,
+      "is_reply": false,
+      "_expected": "effect"
+    },
+    {
+      "comment_id": "c32",
+      "parent_id": "c02",
+      "text": "혹시 이어폰 끼고 들으셨어요? 몇 번이나 반복했나요?",
+      "published_at": "2026-01-09T08:42:00+09:00",
+      "like_count": 1,
+      "is_reply": true,
+      "_expected": "usage"
+    },
+    {
+      "comment_id": "c33",
+      "parent_id": null,
+      "text": "연락 왔으면 좋겠다. 제발 이번 주에는 와주었으면 해요.",
+      "published_at": "2026-03-09T12:00:00+09:00",
+      "like_count": 0,
+      "is_reply": false,
+      "_expected": "duplicate"
+    },
+    {
+      "comment_id": "c34",
+      "parent_id": null,
+      "text": "구독 홍보합니다. 텔레그램 https://t.me/examplepromo 로 오시면 정보를 더 드립니다.",
+      "published_at": "2026-03-10T04:04:00+09:00",
+      "like_count": 0,
+      "is_reply": false,
+      "_expected": "excluded"
+    },
+    {
+      "comment_id": "c35",
+      "parent_id": null,
+      "text": "......",
+      "published_at": "2026-03-11T04:05:00+09:00",
+      "like_count": 0,
+      "is_reply": false,
+      "_expected": "excluded"
+    },
+    {
+      "comment_id": "c36",
+      "parent_id": null,
+      "text": "연락이 왔으면 좋겠어요 &amp; 매일 들을게요",
+      "published_at": "2026-03-12T21:00:00+09:00",
+      "like_count": 1,
+      "is_reply": false,
+      "_expected": "hope"
+    },
+    {
+      "comment_id": "c37",
+      "parent_id": null,
+      "text": "재생 방법 좀 알려 주세요. https://example.com/guide 이어폰으로 듣는 게 나은가요?",
+      "published_at": "2026-03-13T18:18:00+09:00",
+      "like_count": 2,
+      "is_reply": false,
+      "_expected": "usage"
+    },
+    {
+      "comment_id": "c38",
+      "parent_id": null,
+      "text": "사기 치지 마세요. 저는 효과가 전혀 없었어요.",
+      "published_at": "2026-03-14T20:20:00+09:00",
+      "like_count": 2,
+      "is_reply": false,
+      "_expected": "criticism"
+    },
+    {
+      "comment_id": "c39",
+      "parent_id": null,
+      "text": "연락이 오게 하려면 하루 몇 번 들어야 하나요?",
+      "published_at": "2026-03-15T23:01:00+09:00",
+      "like_count": 4,
+      "is_reply": false,
+      "_expected": "usage"
+    },
+    {
+      "comment_id": "c40",
+      "parent_id": null,
+      "text": "연락 왔어요",
+      "published_at": "2026-03-16T11:11:00+09:00",
+      "like_count": 999,
+      "is_reply": false,
+      "_expected": "effect"
+    },
+    {
+      "comment_id": "c41",
+      "parent_id": null,
+      "text": "제발 연락 왔으면 좋겠어요. 제 번호 010-1234-5678 로 오진 않겠죠.",
+      "published_at": "2026-03-17T22:22:00+09:00",
+      "like_count": 1,
+      "is_reply": false,
+      "_expected": "hope"
+    },
+    {
+      "comment_id": "c42",
+      "parent_id": null,
+      "text": "그냥 한번 들어봤어요.",
+      "published_at": "2026-03-18T14:14:00+09:00",
+      "like_count": 1,
+      "is_reply": false,
+      "_expected": "hold"
+    },
+    {
+      "comment_id": "c43",
+      "parent_id": null,
+      "text": "효과 있어요",
+      "published_at": "2026-03-19T15:15:00+09:00",
+      "like_count": 2,
+      "is_reply": false,
+      "_expected": "hold"
+    },
+    {
+      "comment_id": "c44",
+      "parent_id": "c19",
+      "text": "저도 동감해요. 좋은 지적 감사합니다.",
+      "published_at": "2026-02-16T12:30:00+09:00",
+      "like_count": 3,
+      "is_reply": true,
+      "_expected": "empathy"
+    },
+    {
+      "comment_id": "c45",
+      "parent_id": null,
+      "text": "아직 연락은 안 왔어요.",
+      "published_at": "2026-03-20T09:09:00+09:00",
+      "like_count": 4,
+      "is_reply": false,
+      "_expected": "hold"
+    }
+  ]
+}
