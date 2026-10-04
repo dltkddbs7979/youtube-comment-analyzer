@@ -70,10 +70,39 @@ class ClassificationTests(unittest.TestCase):
         result = classify_text("아직 연락은 안 왔어요.")
         self.assertNotEqual(result.label, "effect")
 
-    def test_short_laughter_is_hold(self):
+    def test_short_laughter_is_humor_with_low_confidence(self):
         result = classify_text("ㅋㅋㅋㅋ")
-        self.assertEqual(result.label, "hold")
+        self.assertEqual(result.label, "humor")
         self.assertLess(result.confidence, 0.5)
+
+    def test_waiting_is_hope_not_experience(self):
+        result = classify_text("아직 연락은 안 왔어요.")
+        self.assertEqual(result.label, "hope")
+        self.assertNotEqual(result.label, "effect")
+
+    def test_ordinary_comments_are_not_held(self):
+        samples = [
+            "공부하면서 듣고 있어요",
+            "오늘도 화이팅",
+            "ㅋㅋㅋㅋ",
+            "좋아요",
+            "❤️",
+            "이어폰으로 들으면 되나요",
+            "연락 왔으면 좋겠다",
+            "사기 같아요",
+            "아직 답장이 없어요",
+            "재회하고 싶어요",
+            "대박",
+            "그냥 한번 들어봤어요",
+            "효과 있어요",
+            "3시간째 듣는 중",
+            "ㅠㅠ",
+            "집중이 잘 되네요",
+            "별로예요",
+            "그 사람 생각하면서 들어요",
+        ]
+        held = [text for text in samples if classify_text(text).label == "hold"]
+        self.assertEqual(held, [])
 
     def test_confidence_is_not_presented_as_certainty(self):
         result = classify_text("사흘 동안 자기 전에 들었는데, 읽씹만 하던 사람에게서 먼저 연락이 왔어요.")
